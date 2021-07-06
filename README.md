@@ -1,2 +1,2 @@
-# graphql-with-mulesoft
+# customer-bank-exp
 GraphQL implementation with Mulesoft
